@@ -16,7 +16,7 @@
     "reactstrap": "^8.0.1"
   },
   "devDependencies": {
-    "webpack": "^2.2.1",
+    "webpack": "^2.7.0",
     "webpack-dev-server": "^2.3.0",
     "websocket-extensions": ">=0.1.4"
   },
